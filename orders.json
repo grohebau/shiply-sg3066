@@ -1,0 +1,47 @@
+{
+  "S38194": {
+    "status": "En espera de pago",
+    "statusClass": "pendiente",
+    "sender": "Jens Plückhahn, Pestalozzistraße 12, 27474 Cuxhaven, Alemania",
+    "receiver": "Valenti Verneda Lleonart, C/ Otzet nº 3, 08270 Navarcles, España",
+    "price": "6.300 €",
+    "description": "Fabricante: BMW<br>Modelo: R 75/5<br>Número de bastidor: 2986328<br>Primera matriculación: 17/05/1973<br>Kilometraje: 84.975 km<br>Potencia: 37 kW (50 CV)<br>Cilindrada: 750 cm³<br>Color: Azul<br><br>La motocicleta está completamente funcional, sin caídas ni accidentes.<br>Se incluyen todos los papeles y llaves.",
+    "address": "Valenti Verneda Lleonart<br>C/ Otzet nº 3<br>08270 Navarcles<br>España<br>Teléfono: +34 650 913167",
+    "documents": [
+      {
+        "name": "Nota de entrega",
+        "url": "docs/Delivery_note.pdf"
+      },
+      {
+        "name": "Contrato de compraventa",
+        "url": "docs/Purchase_Contract.pdf"
+      },
+      {
+        "name": "Factura",
+        "url": "docs/Invoice.pdf"
+      },
+      {
+        "name": "Términos y Condiciones",
+        "url": "docs/Terms.pdf"
+      }
+    ],
+    "orderDate": "18-09-2025",
+    "deliveryDate": "25-09-2025",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "C/ Otzet nº 3",
+      "postal_code": "08270",
+      "city": "Navarcles, Barcelona",
+      "country": "España",
+      "lat": "41.751817653470184",
+      "lng": "1.9053531118304459"
+    }
+  }
+}
